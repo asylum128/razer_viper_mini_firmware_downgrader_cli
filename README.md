@@ -2,7 +2,7 @@
 
 Simple application that will allow you to downgrade an existing firmware on viper mini gaming mouse using their official firmware installers.
 
-The utilty puts the mouse into dev mode and allows the software to flash which version onto the device.
+The utilty puts the mouse into dev mode and allows the software to flash any version (including older versions) onto the device.
 
 USE AT YOUR OWN RISK! 
 
